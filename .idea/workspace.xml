@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8dad68b7-9d6b-42fe-8fae-b3f395bd9c78" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YuA0wVfh7hITohcOlpdurydtpU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.VariablesPractice">
+    <configuration name="ArithmeticOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day03_VariablesContinue.ArithmeticOperators" />
+      <module name="Spring2020B18_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day03_VariablesContinue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeInfo_Variables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day02_Variables.EmployeeInfo_Variables" />
+      <module name="Spring2020B18_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day02_Variables.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VariablesContinue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day03_VariablesContinue.VariablesContinue" />
+      <module name="Spring2020B18_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day03_VariablesContinue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VariablesPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day05_Unary_ShorthandOperators.VariablesPractice" />
+      <module name="Spring2020B18_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day05_Unary_ShorthandOperators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="doublefloatPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day02_Variables.doublefloatPractice" />
+      <module name="Spring2020B18_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day02_Variables.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.VariablesPractice" />
+        <item itemvalue="Application.VariablesContinue" />
+        <item itemvalue="Application.ArithmeticOperators" />
+        <item itemvalue="Application.doublefloatPractice" />
+        <item itemvalue="Application.EmployeeInfo_Variables" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8dad68b7-9d6b-42fe-8fae-b3f395bd9c78" name="Default Changelist" comment="" />
+      <created>1583781885961</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583781885961</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="385" y="178" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584408883496">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="385" y="178" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768@0.0.1366.768" timestamp="1584408883496" />
+    <state width="1314" height="224" key="GridCell.Tab.0.bottom" timestamp="1587748426379">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1314" height="188" key="GridCell.Tab.0.bottom/-1920.-289.1920.1057/0.23.1366.695@0.23.1366.695" timestamp="1586291824333" />
+    <state width="1314" height="188" key="GridCell.Tab.0.bottom/-1920.-289.1920.1057/0.23.1366.696@0.23.1366.696" timestamp="1586288218526" />
+    <state width="1314" height="188" key="GridCell.Tab.0.bottom/-1920.-289.1920.1057/0.23.1366.745@0.23.1366.745" timestamp="1585600248330" />
+    <state width="1314" height="224" key="GridCell.Tab.0.bottom/-1920.-312.1920.1080/0.0.1366.768@0.0.1366.768" timestamp="1587748426379" />
+    <state width="1314" height="224" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1587560477184" />
+    <state width="1314" height="224" key="GridCell.Tab.0.bottom/0.23.1366.695@0.23.1366.695" timestamp="1587563338523" />
+    <state width="1314" height="188" key="GridCell.Tab.0.bottom/0.23.1366.696@0.23.1366.696" timestamp="1586299499821" />
+    <state width="1314" height="188" key="GridCell.Tab.0.bottom/0.23.1366.697@0.23.1366.697" timestamp="1585618172755" />
+    <state width="1314" height="188" key="GridCell.Tab.0.bottom/0.23.1366.698@0.23.1366.698" timestamp="1585619989562" />
+    <state width="1314" height="224" key="GridCell.Tab.0.center" timestamp="1587748426376">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1314" height="188" key="GridCell.Tab.0.center/-1920.-289.1920.1057/0.23.1366.695@0.23.1366.695" timestamp="1586291824331" />
+    <state width="1314" height="188" key="GridCell.Tab.0.center/-1920.-289.1920.1057/0.23.1366.696@0.23.1366.696" timestamp="1586288218524" />
+    <state width="1314" height="188" key="GridCell.Tab.0.center/-1920.-289.1920.1057/0.23.1366.745@0.23.1366.745" timestamp="1585600248330" />
+    <state width="1314" height="224" key="GridCell.Tab.0.center/-1920.-312.1920.1080/0.0.1366.768@0.0.1366.768" timestamp="1587748426376" />
+    <state width="1314" height="224" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1587560477181" />
+    <state width="1314" height="224" key="GridCell.Tab.0.center/0.23.1366.695@0.23.1366.695" timestamp="1587563338522" />
+    <state width="1314" height="188" key="GridCell.Tab.0.center/0.23.1366.696@0.23.1366.696" timestamp="1586299499820" />
+    <state width="1314" height="188" key="GridCell.Tab.0.center/0.23.1366.697@0.23.1366.697" timestamp="1585618172753" />
+    <state width="1314" height="188" key="GridCell.Tab.0.center/0.23.1366.698@0.23.1366.698" timestamp="1585619989561" />
+    <state width="1314" height="224" key="GridCell.Tab.0.left" timestamp="1587748426374">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1314" height="188" key="GridCell.Tab.0.left/-1920.-289.1920.1057/0.23.1366.695@0.23.1366.695" timestamp="1586291824330" />
+    <state width="1314" height="188" key="GridCell.Tab.0.left/-1920.-289.1920.1057/0.23.1366.696@0.23.1366.696" timestamp="1586288218523" />
+    <state width="1314" height="188" key="GridCell.Tab.0.left/-1920.-289.1920.1057/0.23.1366.745@0.23.1366.745" timestamp="1585600248329" />
+    <state width="1314" height="224" key="GridCell.Tab.0.left/-1920.-312.1920.1080/0.0.1366.768@0.0.1366.768" timestamp="1587748426374" />
+    <state width="1314" height="224" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1587560477180" />
+    <state width="1314" height="224" key="GridCell.Tab.0.left/0.23.1366.695@0.23.1366.695" timestamp="1587563338521" />
+    <state width="1314" height="188" key="GridCell.Tab.0.left/0.23.1366.696@0.23.1366.696" timestamp="1586299499819" />
+    <state width="1314" height="188" key="GridCell.Tab.0.left/0.23.1366.697@0.23.1366.697" timestamp="1585618172753" />
+    <state width="1314" height="188" key="GridCell.Tab.0.left/0.23.1366.698@0.23.1366.698" timestamp="1585619989560" />
+    <state width="1314" height="224" key="GridCell.Tab.0.right" timestamp="1587748426378">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1314" height="188" key="GridCell.Tab.0.right/-1920.-289.1920.1057/0.23.1366.695@0.23.1366.695" timestamp="1586291824332" />
+    <state width="1314" height="188" key="GridCell.Tab.0.right/-1920.-289.1920.1057/0.23.1366.696@0.23.1366.696" timestamp="1586288218525" />
+    <state width="1314" height="188" key="GridCell.Tab.0.right/-1920.-289.1920.1057/0.23.1366.745@0.23.1366.745" timestamp="1585600248330" />
+    <state width="1314" height="224" key="GridCell.Tab.0.right/-1920.-312.1920.1080/0.0.1366.768@0.0.1366.768" timestamp="1587748426378" />
+    <state width="1314" height="224" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1587560477182" />
+    <state width="1314" height="224" key="GridCell.Tab.0.right/0.23.1366.695@0.23.1366.695" timestamp="1587563338522" />
+    <state width="1314" height="188" key="GridCell.Tab.0.right/0.23.1366.696@0.23.1366.696" timestamp="1586299499820" />
+    <state width="1314" height="188" key="GridCell.Tab.0.right/0.23.1366.697@0.23.1366.697" timestamp="1585618172754" />
+    <state width="1314" height="188" key="GridCell.Tab.0.right/0.23.1366.698@0.23.1366.698" timestamp="1585619989561" />
+    <state x="86" y="23" key="SettingsEditor" timestamp="1583782492971">
+      <screen x="0" y="23" width="1366" height="695" />
+    </state>
+    <state x="86" y="23" key="SettingsEditor/-1920.-289.1920.1057/0.23.1366.695@0.23.1366.695" timestamp="1583782492971" />
+    <state x="284" y="180" key="com.intellij.ide.util.TipDialog" timestamp="1587739571891">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="284" y="186" key="com.intellij.ide.util.TipDialog/-1920.-289.1920.1057/0.23.1366.695@0.23.1366.695" timestamp="1586283213716" />
+    <state x="284" y="198" key="com.intellij.ide.util.TipDialog/-1920.-289.1920.1057/0.23.1366.745@0.23.1366.745" timestamp="1585591960238" />
+    <state x="284" y="180" key="com.intellij.ide.util.TipDialog/-1920.-312.1920.1080/0.0.1366.768@0.0.1366.768" timestamp="1587739571891" />
+    <state x="284" y="180" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1587612891489" />
+    <state x="284" y="186" key="com.intellij.ide.util.TipDialog/0.23.1366.695@0.23.1366.695" timestamp="1586307064412" />
+    <state x="284" y="186" key="com.intellij.ide.util.TipDialog/0.23.1366.696@0.23.1366.696" timestamp="1586015121080" />
+    <state x="284" y="187" key="com.intellij.ide.util.TipDialog/0.23.1366.698@0.23.1366.698" timestamp="1585613870629" />
+    <state x="91" y="0" width="1275" height="768" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1586890549523">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="91" y="0" width="1275" height="768" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/-1920.-312.1920.1080/0.0.1366.768@0.0.1366.768" timestamp="1586890549523" />
+    <state x="0" y="0" key="new project wizard" timestamp="1587669780807">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="0" y="0" key="new project wizard/-1920.-312.1920.1080/0.0.1366.768@0.0.1366.768" timestamp="1587669780807" />
+    <state x="0" y="0" key="new project wizard/0.0.1366.768@0.0.1366.768" timestamp="1584408832187" />
+    <state x="264" y="0" width="838" height="1141" key="search.everywhere.popup" timestamp="1587478757358">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="264" y="23" width="838" height="1032" key="search.everywhere.popup/-1920.-289.1920.1057/0.23.1366.695@0.23.1366.695" timestamp="1586285346318" />
+    <state x="264" y="0" width="838" height="1141" key="search.everywhere.popup/-1920.-312.1920.1080/0.0.1366.768@0.0.1366.768" timestamp="1587478757358" />
+    <state x="264" y="0" width="838" height="1141" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1587002725542" />
+    <state x="264" y="23" width="838" height="1032" key="search.everywhere.popup/0.23.1366.695@0.23.1366.695" timestamp="1586008312315" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Bıreysel/src/Homework.java</url>
+          <line>3</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

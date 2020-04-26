@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8dad68b7-9d6b-42fe-8fae-b3f395bd9c78" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/officeHours/ctesi.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +40,7 @@
       <recent name="Resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.VariablesPractice">
+  <component name="RunManager" selected="Application.Git_yeni">
     <configuration name="ArithmeticOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day03_VariablesContinue.ArithmeticOperators" />
       <module name="Spring2020B18_Java" />
@@ -55,12 +54,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EmployeeInfo_Variables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day02_Variables.EmployeeInfo_Variables" />
+    <configuration name="Git_yeni" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="officeHours.Git_yeni" />
       <module name="Spring2020B18_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day02_Variables.*" />
+          <option name="PATTERN" value="officeHours.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Git_yeni" />
         <item itemvalue="Application.VariablesPractice" />
         <item itemvalue="Application.VariablesContinue" />
         <item itemvalue="Application.ArithmeticOperators" />
         <item itemvalue="Application.doublefloatPractice" />
-        <item itemvalue="Application.EmployeeInfo_Variables" />
       </list>
     </recent_temporary>
   </component>
@@ -191,15 +190,15 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="183" y="63" key="Vcs.Push.Dialog.v2/-1920.-312.1920.1080/0.0.1366.768@0.0.1366.768" timestamp="1587759126673" />
-    <state x="284" y="180" key="com.intellij.ide.util.TipDialog" timestamp="1587853440306">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state x="284" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1587869617328">
+      <screen x="0" y="23" width="1366" height="696" />
     </state>
     <state x="284" y="186" key="com.intellij.ide.util.TipDialog/-1920.-289.1920.1057/0.23.1366.695@0.23.1366.695" timestamp="1586283213716" />
     <state x="284" y="198" key="com.intellij.ide.util.TipDialog/-1920.-289.1920.1057/0.23.1366.745@0.23.1366.745" timestamp="1585591960238" />
     <state x="284" y="180" key="com.intellij.ide.util.TipDialog/-1920.-312.1920.1080/0.0.1366.768@0.0.1366.768" timestamp="1587739571891" />
     <state x="284" y="180" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1587853440306" />
     <state x="284" y="186" key="com.intellij.ide.util.TipDialog/0.23.1366.695@0.23.1366.695" timestamp="1586307064412" />
-    <state x="284" y="186" key="com.intellij.ide.util.TipDialog/0.23.1366.696@0.23.1366.696" timestamp="1586015121080" />
+    <state x="284" y="186" key="com.intellij.ide.util.TipDialog/0.23.1366.696@0.23.1366.696" timestamp="1587869617328" />
     <state x="284" y="187" key="com.intellij.ide.util.TipDialog/0.23.1366.698@0.23.1366.698" timestamp="1585613870629" />
     <state x="91" y="0" width="1275" height="768" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1586890549523">
       <screen x="0" y="0" width="1366" height="768" />

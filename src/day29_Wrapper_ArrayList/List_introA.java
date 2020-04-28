@@ -2,7 +2,7 @@ package day29_Wrapper_ArrayList;
 import java.util.ArrayList;
 public class List_introA {
     public static void main(String[] args) {
-        ArrayList<Integer> scores=new ArrayList<Integer>();
+        ArrayList<Integer> scores=new ArrayList<>();
 
         scores.add(10); //autoboxing
         scores.add(20);

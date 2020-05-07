@@ -23,18 +23,16 @@ public class MyOffers {
         ArrayList<Offer> myOffer=new ArrayList<>();
          myOffer.addAll(Arrays.asList(offer1,offer2,offer3,offer4,offer5));
 
-         for(int i=0;i<myOffer.size();i++){
+        myOffer.removeIf(p->p.salary<170000 || !p.isFullTime || !p.location.equals("Houston"));
+        System.out.println(myOffer);
+
+
+        for(int i=0;i<myOffer.size();i++){
              System.out.println(myOffer.get(i));
          }
-        myOffer.removeIf(p->!p.isFullTime);
-        System.out.println(myOffer);
 
 
-        myOffer.removeIf(p->p.location=="Houston");
-        System.out.println(myOffer);
 
-        myOffer.removeIf(p->p.salary>170000);
-        System.out.println(myOffer);
 
     }
 }

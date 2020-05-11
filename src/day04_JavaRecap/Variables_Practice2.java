@@ -1,4 +1,4 @@
-package Day04_JavaRecap;
+package day04_JavaRecap;
 
 public class Variables_Practice2 {
     public static void main(String[] args) {

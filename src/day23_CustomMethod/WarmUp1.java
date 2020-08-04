@@ -19,10 +19,6 @@ public class WarmUp1 {
 
      }
 
-
-
-
-
         for(String each2:ch){
             int count=0;
         for(String each:ch){

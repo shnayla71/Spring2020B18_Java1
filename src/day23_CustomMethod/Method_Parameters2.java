@@ -2,6 +2,7 @@ package day23_CustomMethod;
 
 public class Method_Parameters2 {
     public static void main(String[] args) {
+
         Reverse("ayla");
     }
     public static void Reverse(String word){

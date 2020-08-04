@@ -19,13 +19,14 @@ public class staticBlock3 {
             tester1.setTesterInfo("Jean",123,"SDET", 12000);
         }
 
-/*
+
     public static void main(String[] args) {
         name = "Muhtar";
         num = 200;
         System.out.println(name);
         System.out.println(num);
+        System.out.println(tester1);
     }
- */
+
 
 }

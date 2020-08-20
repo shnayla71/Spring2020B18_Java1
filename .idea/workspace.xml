@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8dad68b7-9d6b-42fe-8fae-b3f395bd9c78" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/META-INF/Spring2020B18_Java.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day19_Arrays/Arrays_practice2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day19_Arrays/Arrays_practice2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day19_Arrays/Arrays_practice2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day19_Arrays/Arrays_practice2.java" afterDir="false" />
-    </list>
+    <list default="true" id="8dad68b7-9d6b-42fe-8fae-b3f395bd9c78" name="Default Changelist" comment="last part" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -141,12 +136,20 @@
       <option name="project" value="LOCAL" />
       <updated>1596556081434</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="last part">
+      <created>1597893051117</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1597893051117</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="last_class" />
-    <option name="LAST_COMMIT_MESSAGE" value="last_class" />
+    <MESSAGE value="last part" />
+    <option name="LAST_COMMIT_MESSAGE" value="last part" />
   </component>
   <component name="WindowStateProjectService">
     <state x="183" y="23" key="#Notifications" timestamp="1595294200657">
@@ -161,18 +164,15 @@
     <state x="452" y="23" width="462" height="696" key="#com.intellij.ide.util.MemberChooser/0.23.1366.696@0.23.1366.696" timestamp="1592440999224" />
     <state x="452" y="23" width="462" height="703" key="#com.intellij.ide.util.MemberChooser/0.23.1366.703@0.23.1366.703" timestamp="1593133454499" />
     <state x="452" y="23" key="#com.intellij.ide.util.MemberChooser/0.23.1366.704@0.23.1366.704" timestamp="1593133170806" />
-    <state x="241" y="290" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1588566150734">
-      <screen x="0" y="23" width="1366" height="696" />
-    </state>
-    <state x="241" y="290" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.23.1366.696@0.23.1366.696" timestamp="1588566150734" />
     <state x="296" y="23" key="#com.intellij.unscramble.UnscrambleDialog" timestamp="1591642844319">
       <screen x="0" y="23" width="1366" height="696" />
     </state>
     <state x="296" y="23" key="#com.intellij.unscramble.UnscrambleDialog/-1920.-289.1920.1057/0.23.1366.696@0.23.1366.696" timestamp="1591642844319" />
-    <state x="248" y="23" key="CommitChangelistDialog2" timestamp="1596556081163">
-      <screen x="0" y="23" width="1366" height="700" />
+    <state x="248" y="23" key="CommitChangelistDialog2" timestamp="1597893094589">
+      <screen x="0" y="23" width="1366" height="696" />
     </state>
     <state x="248" y="23" key="CommitChangelistDialog2/-1920.-289.1920.1057/0.23.1366.700@0.23.1366.700" timestamp="1596556081163" />
+    <state x="248" y="23" key="CommitChangelistDialog2/0.23.1366.696@0.23.1366.696" timestamp="1597893094589" />
     <state width="1314" height="187" key="GridCell.Tab.0.bottom" timestamp="1597179362752">
       <screen x="0" y="23" width="1366" height="699" />
     </state>
@@ -245,10 +245,11 @@
       <screen x="0" y="23" width="1366" height="696" />
     </state>
     <state width="1314" height="198" key="GridCell.Tab.1.right/0.23.1366.696@0.23.1366.696" timestamp="1589352730245" />
-    <state x="183" y="49" key="Vcs.Push.Dialog.v2" timestamp="1596556098202">
-      <screen x="0" y="23" width="1366" height="700" />
+    <state x="183" y="49" key="Vcs.Push.Dialog.v2" timestamp="1597893106340">
+      <screen x="0" y="23" width="1366" height="696" />
     </state>
     <state x="183" y="49" key="Vcs.Push.Dialog.v2/-1920.-289.1920.1057/0.23.1366.700@0.23.1366.700" timestamp="1596556098202" />
+    <state x="183" y="49" key="Vcs.Push.Dialog.v2/0.23.1366.696@0.23.1366.696" timestamp="1597893106340" />
     <state x="284" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1595294668517">
       <screen x="0" y="23" width="1366" height="695" />
     </state>
@@ -262,6 +263,10 @@
       <screen x="0" y="23" width="1366" height="696" />
     </state>
     <state x="91" y="23" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/-1920.-289.1920.1057/0.23.1366.696@0.23.1366.696" timestamp="1590691371783" />
+    <state x="444" y="275" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597893101975">
+      <screen x="0" y="23" width="1366" height="696" />
+    </state>
+    <state x="444" y="275" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1366.696@0.23.1366.696" timestamp="1597893101975" />
     <state x="0" y="23" width="964" height="696" key="find.popup" timestamp="1591633355694">
       <screen x="0" y="23" width="1366" height="696" />
     </state>

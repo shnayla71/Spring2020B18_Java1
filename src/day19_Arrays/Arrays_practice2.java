@@ -16,9 +16,14 @@ public class Arrays_practice2 {
         System.out.println(Testers.length);// write 3
         System.out.println("======================");
 
-        String[] students=new String[10];
+        String[] students=new String[5];
         // write program that enter a name 10 times,each name in the array student
-
+        String[] students1={"a","b","c","d","e"};
+        for(int i=0;i<= students1.length;i++){
+            for(int j=0;j<= students1.length;j++){
+                System.out.println(students1[j]);
+            }
+        }
 
 
 
